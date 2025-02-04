@@ -66,7 +66,7 @@ Code Structure
 1. Imports
 The code imports various libraries required for different functionalities:
 
-ctypes, random, subprocess, os, sys, time: Standard libraries for system operations.
+ctypes, random, subprocess, os, sys, time: Standard libraries for system operations. 
 pyjokes, pyttsx3, datetime, speech_recognition, wikipedia, requests, webbrowser, pywhatkit, pyautogui, winshell, wolframalpha, BeautifulSoup, pytube: Third-party libraries for specific tasks.
 2. Initialization
 The text-to-speech engine (pyttsx3) is initialized, and the voice properties are set:
